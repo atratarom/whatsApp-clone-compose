@@ -20,8 +20,8 @@
   <uses-permission android:name="android.permission.INTERNET" />
 
   <application
-    android:name=".WhatsApp"
     android:allowBackup="true"
+    android:name=".WhatsApp"
     android:dataExtractionRules="@xml/data_extraction_rules"
     android:fullBackupContent="@xml/backup_rules"
     android:icon="@mipmap/ic_launcher"
